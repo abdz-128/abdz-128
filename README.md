@@ -3,7 +3,7 @@
 
 ### AI / ML Engineer · Backend Engineer · LLM Systems & Local AI
 
-**I build the engineering around AI—not just the model call.**
+**I build the engineering around AI (not just the model call.)**
 
 My work spans document ingestion, retrieval and reranking, self-hosted LLM inference, multimodal video processing, background workers, and the APIs that hold everything together. I'm especially interested in what happens *after* a prototype works: accuracy, latency, hardware constraints, data privacy, and failure recovery.
 
